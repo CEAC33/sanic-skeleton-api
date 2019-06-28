@@ -23,7 +23,7 @@ To run the project, just run
 docker-compose up
 ```
 
-
+## Some Commands
 
 
 Install dependencies :
