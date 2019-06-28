@@ -23,6 +23,18 @@ To run the project, just run
 docker-compose up
 ```
 
+Test it in a browser:
+
+```
+http://localhost:8080/v1/my_api/
+```
+
+You can see the endpoints in the swagger endpoint:
+
+```
+http://localhost:8080/swagger
+```
+
 ## Some Commands
 
 
