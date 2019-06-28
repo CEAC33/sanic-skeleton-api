@@ -1,4 +1,4 @@
-# preprocessing-api
+# sanic-skeleton-api
 
 ## Stacks
 
